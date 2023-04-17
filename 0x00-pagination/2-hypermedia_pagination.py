@@ -62,4 +62,3 @@ class Server:
         }
 
         return page_info
-    
